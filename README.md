@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil🐯
 
-<!--
-**vinin0705/vinin0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vinicius ribeiro💸
 
-Here are some ideas to get you started:
+-  Estou estudando na [Alura](htts://ww.alura.com.br)
+-  Estou me desenvolvendo na linguagem JavaScript
+-  Uso esse espaço para me organizar e compartilhar meus projetos ja deselvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+00001096829514sp@al.educacao.sp.gov.br
+
+![ ](https://media1.tenor.com/m/w5MUR0mMX4AAAAAC/tupac-2pac.gif)
